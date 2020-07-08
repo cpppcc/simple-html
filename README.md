@@ -1,2 +1,2 @@
 # simple-html
-![Hnet-image.gif]
+![](Hnet-image.gif)
